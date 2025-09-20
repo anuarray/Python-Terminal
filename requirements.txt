@@ -1,0 +1,2 @@
+psutil
+transformers  # Optional for AI features
